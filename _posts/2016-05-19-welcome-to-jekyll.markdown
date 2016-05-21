@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "2012136066_sonhyungon_welcome!"
 date:   2016-05-19 15:27:44 +0900
 categories: jekyll update
 ---
